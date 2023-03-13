@@ -1,0 +1,7 @@
+Use this command in your foss server
+
+fc-node-configuration -n demo-system --password admin
+
+ifconfig
+
+copy ip paste on google
